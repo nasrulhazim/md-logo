@@ -1,6 +1,9 @@
 # Material Design Logo Colors
 Based on [Material Design Logo Creator](http://mdbootstrap.com/material-design-logo-generator/) and [Material Design Colors](http://www.materialui.co/colors)
 
+## Sample
+![alt sample](https://raw.githubusercontent.com/nasrulhazim/md-logo/master/screenshot.png)
+
 ## Sizes
 Available from <code>16px</code> to <code>512px</code>. <code>md-x</code> where star is the pixel number
 
